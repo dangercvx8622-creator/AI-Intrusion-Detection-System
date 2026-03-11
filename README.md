@@ -1,4 +1,7 @@
-# AI-Powered Network Intrusion Detection System (IDS)
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![Flask](https://img.shields.io/badge/Flask-2.0-green)
+![Machine Learning](https://img.shields.io/badge/ML-Random%20Forest-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow) # AI-Powered Network Intrusion Detection System (IDS)
 
 Personal Motivation: As a Grade 12 student, I built this AI system to explore affordable cybersecurity solutions for developing communities and schools that lack the resources to defend against modern digital threats.
 

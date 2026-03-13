@@ -41,4 +41,4 @@ I developed this system to explore how AI can proactively defend against cyber a
 3. Launch the dashboard: `python app.py`
 
 ---
-**Developed by [ضع اسمك هنا]** *Grade 12 Student | Cybersecurity Enthusiast*
+**Developed by [Ali Mahmoud Ahmed Mohamed]** *Grade 12 Student | Cybersecurity Enthusiast*
